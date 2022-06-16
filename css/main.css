@@ -1,0 +1,26 @@
+body {
+    background-color: #e3e1e1;
+}
+
+p {
+    color: yellow;
+}
+
+div {
+    margin: auto;
+    width: 99%;
+}
+
+h1 {
+    color: black;
+}
+
+#pagetitle {
+    color: blue;
+    align-content: center;
+}
+ h3 {
+     background-color: bisque;
+     color: red;
+     width: max-content;
+ }
